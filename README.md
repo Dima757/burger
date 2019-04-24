@@ -6,7 +6,7 @@ Heroku link : https://frozen-dusk-50818.herokuapp.com/
 
 -- Node burger logger with MySQL, Express, Handlebars
 
--- Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
+-- Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
 
 --Whenever a user submits a burger's name, the app will display the burger on the left side of the page -- waiting to be devoured.
 
